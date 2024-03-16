@@ -1,6 +1,8 @@
+package homework_1.D_Slony_i_lady;
+
 import java.util.Scanner;
 
-public class Task_D {
+public class D {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char[][] board = new char[8][8];

@@ -1,6 +1,8 @@
+package homework_1.C_Formatirovanie_fayla;
+
 import java.util.Scanner;
 
-public class Task_C {
+public class C {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

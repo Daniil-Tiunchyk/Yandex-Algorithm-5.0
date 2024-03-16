@@ -1,6 +1,8 @@
+package homework_1.A_Pokraska_derevyev;
+
 import java.util.Scanner;
 
-public class Task_A {
+public class A {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
