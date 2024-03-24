@@ -31,8 +31,6 @@
 1
 2
 GoGetIt Life
-2
-GoGetIt Life
 ```
 
 **Вывод**:
