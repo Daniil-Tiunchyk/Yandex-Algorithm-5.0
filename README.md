@@ -20,8 +20,9 @@
 - [Решения и описания задач](src/homework_3/README.md)
 
 ## Домашнее задание №4
-- [Решения и описания задач](src/homework_4/README.md)
 - [Лекция 4: Бинарный поиск (Михаил Густокашин)](https://www.youtube.com/watch?v=-B6xvDeGyPg)
+- [Ссылка на домашнее задание #4](https://contest.yandex.ru/contest/59542/enter/)
+- [Решения и описания задач](src/homework_4/README.md)
 
 ## Лекции и разборы
 - [Собеседование по алгоритмам в прямом эфире и его разбор (Михаил Густокашин и Рудольф Дабагян)](https://www.youtube.com/watch?v=dRHexm-A9yc)
