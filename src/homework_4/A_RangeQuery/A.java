@@ -1,9 +1,9 @@
-package homework_4;
+package homework_4.A_RangeQuery;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class A_RangeQuery {
+public class A {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
